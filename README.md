@@ -120,7 +120,8 @@
 ### 6️⃣ Webhook Logs (Auto-Healing Triggered)  
 ![Grafana Dashboard](./screenshots/Screenshot%20(7).png) 
 
-### 
+### 7 Prometheus Alert Firing 
+![Prometheus Firing](./screenshots/Screenshot%20(8).png)
 
 
 ## 🌟 Key Outcomes
