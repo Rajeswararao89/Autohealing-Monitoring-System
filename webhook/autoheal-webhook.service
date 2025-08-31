@@ -1,0 +1,10 @@
+[Unit]
+Description=Autoheal Webhook (Alertmanager -> Ansible)
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /opt/autoheal/webhook.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

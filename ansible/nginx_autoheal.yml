@@ -1,0 +1,7 @@
+- name: Autoheal NGINX
+  hosts: localhost
+  tasks:
+    - name: Restart NGINX service
+      service:
+        name: nginx
+        state: restarted

@@ -1,0 +1,7 @@
+- name: Autoheal MySQL
+  hosts: localhost
+  tasks:
+    - name: Restart MySQL service
+      service:
+        name: mysql
+        state: restarted

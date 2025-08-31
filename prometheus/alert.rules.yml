@@ -1,0 +1,22 @@
+groups:
+  - name: nginx.rules
+    rules:
+      - alert: NginxDown
+        expr: probe_success == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Nginx is down"
+          description: "Nginx is not responding on port 80"
+
+  - name: mysql.rules
+    rules:
+      - alert: MySQLDown
+        expr: mysql_up == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "MySQL is down"
+          description: "MySQL service is not responding"
