@@ -105,20 +105,22 @@
 ### 1️⃣ Prometheus Targets  
 ![Prometheus Targets](./screenshots/Screenshot%20(1).png)  
 
-### 2️⃣ Prometheus Alert Firing  
+### 2️⃣ Alertmanager – Alert Received  
 ![Prometheus Alert](./screenshots/Screenshot%20(2).png)  
 
-### 3️⃣ Alertmanager – Alert Received  
+### 3️⃣ Grafana Blackbox Dashboard
 ![Alertmanager](./screenshots/Screenshot%20(4).png)  
 
-### 4️⃣ Webhook Logs (Auto-Healing Triggered)  
+### 4️⃣ Grafana Node Exporter Dashboard  
 ![Webhook Logs](./screenshots/Screenshot%20(5).png)  
 
-### 5️⃣ Auto-Healing Success Confirmation  
+### 5️⃣ Grafana MYSQL Dashboard  
 ![Autoheal Success](./screenshots/Screenshot%20(6).png)  
 
-### 6️⃣ Grafana Dashboard Visualization  
-![Grafana Dashboard](./screenshots/Screenshot%20(7).png)  
+### 6️⃣ Webhook Logs (Auto-Healing Triggered)  
+![Grafana Dashboard](./screenshots/Screenshot%20(7).png) 
+
+### 
 
 
 ## 🌟 Key Outcomes
