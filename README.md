@@ -100,6 +100,26 @@
 - Import dashboards (Node Exporter, MySQL, Blackbox, Prometheus)
 - Create custom panels for alerts
 
+## 🖼️ Screenshots  
+
+### 1️⃣ Prometheus Targets  
+![Prometheus Targets](./screenshots/Screenshot%20(1).png)  
+
+### 2️⃣ Prometheus Alert Firing  
+![Prometheus Alert](./screenshots/Screenshot%20(2).png)  
+
+### 3️⃣ Alertmanager – Alert Received  
+![Alertmanager](./screenshots/Screenshot%20(4).png)  
+
+### 4️⃣ Webhook Logs (Auto-Healing Triggered)  
+![Webhook Logs](./screenshots/Screenshot%20(5).png)  
+
+### 5️⃣ Auto-Healing Success Confirmation  
+![Autoheal Success](./screenshots/Screenshot%20(6).png)  
+
+### 6️⃣ Grafana Dashboard Visualization  
+![Grafana Dashboard](./screenshots/Screenshot%20(7).png)  
+
 
 ## 🌟 Key Outcomes
 
@@ -117,6 +137,6 @@
 - Rajeswara Rao
 
 - 🚀 DevOps Enthusiast | Cloud | CI/CD | Monitoring & Automation
-Rajeswara Rao
 
-🚀 DevOps Enthusiast | Cloud | CI/CD | Monitoring & Automation
+
+
