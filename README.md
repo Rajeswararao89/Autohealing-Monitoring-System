@@ -9,6 +9,12 @@
 - Ansible → Executes playbooks to restart failed services
 - Grafana → Provides real-time visualization & dashboards
 
+  ## 📄 Project Report
+
+A detailed project report documenting the architecture, implementation, challenges, and conclusions is available for download.
+
+[📥 Download Full Project Report (PDF)](./docs/Project_Report.pdf)
+
 ## ✅ With this setup, critical services are monitored, alerted, and auto-healed seamlessly.
 
 ## 🚀 Features
